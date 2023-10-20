@@ -1,0 +1,11 @@
+--2023-10-20 12:28:11--  https://packages.icinga.com/icinga.key
+Resolving packages.icinga.com (packages.icinga.com)... 185.233.189.126
+Connecting to packages.icinga.com (packages.icinga.com)|185.233.189.126|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1723 (1,7K) [application/pgp-keys]
+Saving to: ‘STDOUT’
+
+-                          0%[                                  ]       0  --.-KB/s               -                        100%[=================================>]   1,68K  --.-KB/s    in 0s      
+
+2023-10-20 12:28:12 (686 MB/s) - written to stdout [1723/1723]
+
